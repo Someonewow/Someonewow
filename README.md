@@ -1,13 +1,13 @@
-# Hello! <img src="https://github.com/Someonewow/Someonewow/blob/main/assets/wave.gif?raw=true" width="30px">
+### Hello! <img src="https://github.com/Someonewow/Someonewow/blob/main/assets/wave.gif?raw=true" width="30px">
 
 
-I am an Android R&D engineer.
+💻 i am an Android R&D engineer.
 
 
 
-## Contact me
+### Contact me
 
-📮maozhiqi.me@gmail.com
+📮 maozhiqi.me@gmail.com
 
 Stay awesome!
 
