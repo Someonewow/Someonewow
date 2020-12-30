@@ -11,5 +11,5 @@
 
 Stay awesome!
 
-[![Someonewow's github stats](https://github-readme-stats.vercel.app/api?username=Someonewow)](https://github.com/Someonewow)
+[![Someonewow's github stats](https://github-readme-stats.vercel.app/api?username=Someonewow&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/Someonewow)
 
