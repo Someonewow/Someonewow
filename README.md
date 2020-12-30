@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello! <img src="https://github.com/Someonewow/Someonewow/blob/main/assets/wave.gif?raw=true" width="30px">
 
-<!--
-**Someonewow/Someonewow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an Android R&D engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Contact me
+
+📮maozhiqi.me@gmail.com
+
+Stay awesome!
+
+[![Someonewow's github stats](https://github-readme-stats.vercel.app/api?username=Someonewow)](https://github.com/Someonewow)
+
